@@ -1,0 +1,23 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/26uwolqw-xbd9.js","/_next/static/chunks/22i43cg4l4-dq.js"],""]
+3:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/26uwolqw-xbd9.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/26uwolqw-xbd9.js"],"ViewportBoundary"]
+9:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/26uwolqw-xbd9.js"],"MetadataBoundary"]
+b:I[39756,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/26uwolqw-xbd9.js"],"default"]
+c:I[37457,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/26uwolqw-xbd9.js"],"default"]
+f:I[11414,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/26uwolqw-xbd9.js"],"Providers"]
+:HL["/_next/static/chunks/3jyafx1bxp8ug.css","style"]
+7:X
+e:X
+e:C
+0:{"buildId":"ny--lYhBCKcWzN1IJERne","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen flex flex-col items-center justify-center p-6 text-center bg-stone-50 text-stone-900","children":[["$","h2",null,{"className":"text-2xl font-bold mb-2","children":"Page Not Found"}],["$","p",null,{"className":"text-sm text-stone-500 mb-6","children":"The page or appointment you are looking for does not exist."}],["$","$L2",null,{"href":"/","className":"px-4 py-2 text-sm font-medium text-white bg-stone-900 rounded-lg hover:bg-stone-800 transition-colors","children":"Return to Appointment Board"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/22i43cg4l4-dq.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Appointment Board"}],["$","meta","1",{"name":"description","content":"A full-stack appointment board for teams with monthly/weekly/daily calendar views, recurring appointments generator, time conflict prevention, and Supabase Auth data protection."}],["$","meta","2",{"property":"og:title","content":"Appointment Board"}],["$","meta","3",{"property":"og:description","content":"A full-stack appointment board for teams with monthly/weekly/daily calendar views, recurring appointments generator, time conflict prevention, and Supabase Auth data protection."}],["$","meta","4",{"name":"twitter:card","content":"summary"}],["$","meta","5",{"name":"twitter:title","content":"Appointment Board"}],["$","meta","6",{"name":"twitter:description","content":"A full-stack appointment board for teams with monthly/weekly/daily calendar views, recurring appointments generator, time conflict prevention, and Supabase Auth data protection."}]]}]}]}],null]}],"isPartial":"$@a","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@d","staleTime":"$7","varyParams":"$e"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3jyafx1bxp8ug.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/3fntmmi971322.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/26uwolqw-xbd9.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"antialiased min-h-screen bg-stone-950 text-stone-100","children":["$","$Lf",null,{"children":["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}],"notFound":[["$","div",null,{"className":"min-h-screen flex flex-col items-center justify-center p-6 text-center bg-stone-50 text-stone-900","children":[["$","h2",null,{"className":"text-2xl font-bold mb-2","children":"Page Not Found"}],["$","p",null,{"className":"text-sm text-stone-500 mb-6","children":"The page or appointment you are looking for does not exist."}],["$","$L2",null,{"href":"/","className":"px-4 py-2 text-sm font-medium text-white bg-stone-900 rounded-lg hover:bg-stone-800 transition-colors","children":"Return to Appointment Board"}]]}],[]]}]}]}]}]]}],"isPartial":"$@10","staleTime":"$7","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+5:null
+7:300
+12:true
+7:C
+11:0
+a:"$undefined"
+d:"$undefined"
+10:"$undefined"
+6:"$undefined"

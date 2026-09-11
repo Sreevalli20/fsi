@@ -1,0 +1,6 @@
+{
+  "name": "Appointment Board",
+  "description": "A full-stack appointment board for teams with monthly/weekly/daily calendar views, recurring appointments generator, time conflict prevention, and Supabase Auth data protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
