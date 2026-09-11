@@ -4,6 +4,10 @@ A production-ready, full-stack **Appointment Board** built for small teams with 
 
 Designed and architected using **Next.js (App Router)**, **TypeScript**, **Tailwind CSS**, and **Supabase PostgreSQL**.
 
+## Live Deployment
+
+**🚀 [https://appointment-board-virid.vercel.app](https://appointment-board-virid.vercel.app)**
+
 ---
 
 ## Features
